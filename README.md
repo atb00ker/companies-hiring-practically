@@ -1,2 +1,13 @@
-# companies-hiring-practically
-List of companies that don't have an absurd hiring process competitive round.
+# Companies Hiring Practically
+
+Here is a alphabetically sorted list of companies that wouldn't ask you to invert a 
+binary tree in 30 minutes without using google.
+
+- Balena
+- Bently Systems
+- Essentia SoftServ
+- Fiserv
+- Hasura
+- Icertis
+- Nvidia
+- Wikter Kulwers
