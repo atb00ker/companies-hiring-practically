@@ -9,5 +9,6 @@ binary tree in 30 minutes without using google.
 - Fiserv
 - Hasura
 - Icertis
+- Monzo
 - Nvidia
 - Wikter Kulwers
