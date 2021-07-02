@@ -14,4 +14,4 @@ binary tree in 30 minutes without using google.
 - ScrapingHub
 - Wikter Kulwers
 
-Within hours of creating this list, a friend send me (poteto/hiring-without-whiteboards)[https://github.com/poteto/hiring-without-whiteboards]. So, I suppose the job of this repository is done.
+Within hours of creating this list, a friend send me [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards). So, I suppose the job of this repository is done.
